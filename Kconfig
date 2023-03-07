@@ -1,0 +1,4 @@
+config MAIN
+	tristate "menuconfig Test"
+	---help---
+	  Help message of MAIN
